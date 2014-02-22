@@ -1,0 +1,60 @@
+------------------------------------------------
+Walk parallelise scripts
+
+
+Process ID      = 33505
+directory prefix  = iteration
+
+reference         = image.contigs.fa 
+solexa_prefix     = 76bp 
+insert size       = 600
+toignore          = 10
+overhang          = 50
+velvet ins_len    = 500
+velvet kmer	= 31
+
+current iteration = 1
+iteration left    = 10
+------------------------------------------------
+
+WHAT DID I JUST DO (compulsory parameters) :
+------------------------------------------------
+Walk parallelise scripts
+
+
+Process ID      = 38720
+directory prefix  = iteration
+
+reference         = image.contigs.fa 
+solexa_prefix     = 76bp 
+insert size       = 600
+toignore          = 10
+overhang          = 50
+velvet ins_len    = 500
+velvet kmer	= 31
+
+current iteration = 1
+iteration left    = 10
+------------------------------------------------
+
+WHAT DID I JUST DO (compulsory parameters) :
+------------------------------------------------
+Walk parallelise scripts
+
+
+Process ID      = 39901
+directory prefix  = iteration
+
+reference         = image.contigs.fa 
+solexa_prefix     = 76bp 
+insert size       = 600
+toignore          = 10
+overhang          = 50
+velvet ins_len    = 500
+velvet kmer	= 31
+
+current iteration = 1
+iteration left    = 10
+------------------------------------------------
+
+WHAT DID I JUST DO (compulsory parameters) :

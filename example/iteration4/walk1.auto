@@ -1,0 +1,21 @@
+>	xxxxxx	xxxxxx	Supercontig1.0.30000	30160
+misc: Zero contigs were produced! (too few or too many reads: 0)
+
+>	Supercontig1.0.30000	30160	Supercontig1.1.30000	30322
+kmer31: Final graph has 2 nodes and n50 of 1078, max 1078, total 1850, using 590/590 reads
+cigar::50 Supercontig1.0.30000.Supercontig1.1.30000.NODE_1_length_802 1 760 + Supercontig1.0.30000 29401 30160 + 760 M 760
+cigar::50 Supercontig1.0.30000.Supercontig1.1.30000.NODE_2_length_1108 55 1108 + Supercontig1.1.30000 1 1054 + 1050 M 1054
+
+>	Supercontig1.1.30000	30322	Supercontig1.2.30000	30292
+kmer31: Final graph has 2 nodes and n50 of 1078, max 1078, total 1856, using 586/586 reads
+cigar::50 Supercontig1.1.30000.Supercontig1.2.30000.NODE_1_length_808 1 754 + Supercontig1.1.30000 29569 30322 + 748 M 754
+cigar::50 Supercontig1.1.30000.Supercontig1.2.30000.NODE_2_length_1108 55 1108 + Supercontig1.2.30000 1 1054 + 1054 M 1054
+
+>	Supercontig1.2.30000	30292	Supercontig1.3.30000	30162
+kmer31: Final graph has 2 nodes and n50 of 1072, max 1072, total 1820, using 578/578 reads
+cigar::50 Supercontig1.2.30000.Supercontig1.3.30000.NODE_1_length_778 1 724 + Supercontig1.2.30000 29569 30292 + 720 M 724
+cigar::50 Supercontig1.2.30000.Supercontig1.3.30000.NODE_2_length_1102 55 1102 + Supercontig1.3.30000 1 1048 + 1047 M 1048
+
+>	Supercontig1.3.30000	30162	xxxxxx	xxxxxx
+misc: Zero contigs were produced! (too few or too many reads: 0)
+

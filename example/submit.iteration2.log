@@ -1,0 +1,20 @@
+------------------------------------------------
+Walk parallelise scripts
+
+
+Process ID      = 34482
+directory prefix  = iteration2
+
+reference         = image.contigs.fa 
+solexa_prefix     = 76bp 
+insert size       = 600
+toignore          = 10
+overhang          = 50
+velvet ins_len    = 500
+velvet kmer	= 31
+
+current iteration = 1
+iteration left    = 15
+------------------------------------------------
+
+WHAT DID I JUST DO (compulsory parameters) :

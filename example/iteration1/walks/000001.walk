@@ -1,0 +1,15 @@
+>	Supercontig1.0.30000	30000	Supercontig1.1.30000	30000
+kmer31: Final graph has 2 nodes and n50 of 700, max 700, total 1322, using 412/412 reads
+cigar::50 Supercontig1.0.30000.Supercontig1.1.30000.NODE_1_length_652 1 600 + Supercontig1.0.30000 29401 30000 + 600 M 600
+cigar::50 Supercontig1.0.30000.Supercontig1.1.30000.NODE_2_length_730 59 730 + Supercontig1.1.30000 1 672 + 670 M 672
+
+>	Supercontig1.1.30000	30000	Supercontig1.2.30000	30000
+kmer31: Final graph has 2 nodes and n50 of 700, max 700, total 1322, using 412/412 reads
+cigar::50 Supercontig1.1.30000.Supercontig1.2.30000.NODE_1_length_652 1 598 + Supercontig1.1.30000 29403 30000 + 594 M 598
+cigar::50 Supercontig1.1.30000.Supercontig1.2.30000.NODE_2_length_730 57 730 + Supercontig1.2.30000 1 674 + 674 M 674
+
+>	Supercontig1.2.30000	30000	Supercontig1.3.30000	30000
+kmer31: Final graph has 2 nodes and n50 of 694, max 694, total 1286, using 402/402 reads
+cigar::50 Supercontig1.2.30000.Supercontig1.3.30000.NODE_1_length_622 1 596 + Supercontig1.2.30000 29405 30000 + 593 M 596
+cigar::50 Supercontig1.2.30000.Supercontig1.3.30000.NODE_2_length_724 55 724 + Supercontig1.3.30000 1 670 + 670 M 670
+

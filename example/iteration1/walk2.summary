@@ -1,0 +1,16 @@
+
+
+
+######################################################################################
+# Stats: Total gaps: 3
+# Stats: 0 gap closed
+# Stats: 0 gaps extends from one side
+# Stats: 3 gaps extends from both side
+# Stats: Gap produce repetitive Illumina contigs: 0
+# Stats: Gap failed to assemble at all: 0 
+# Stats: Gap can be closed but it was inversion: 0
+# Stats: Gap has contigs having longer overhang than 50 : 0
+# Stats: Gap has contig fail within the contig ends:  0
+# Stats: Gap has contig fail to extend more than 10 bp: 0
+# Stats: The rest is small contigs failed to extend more than 10 bp at contig ends
+######################################################################################

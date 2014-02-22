@@ -1,0 +1,4 @@
+Supercontig1.3.30000	30054
+Supercontig1.0.30000	30052
+Supercontig1.2.30000	30082
+Supercontig1.1.30000	30112

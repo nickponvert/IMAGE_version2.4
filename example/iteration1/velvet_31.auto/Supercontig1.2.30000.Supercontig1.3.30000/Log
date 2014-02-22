@@ -1,0 +1,22 @@
+Fri Feb 21 20:14:08 2014
+ /Users/ndp160/BioInfo/IMAGE_version2.4/velveth velvet_31.auto/Supercontig1.2.30000.Supercontig1.3.30000 31 -fasta -shortPaired -
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Fri Feb 21 20:14:08 2014
+ /Users/ndp160/BioInfo/IMAGE_version2.4/velvetg velvet_31.auto/Supercontig1.2.30000.Supercontig1.3.30000 -scaffolding no -very_clean yes -exp_cov auto -min_contig_lgth 250 -ins_length 500
+Version 1.2.10
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 31
+
+Median coverage depth = 14.449568
+Final graph has 2 nodes and n50 of 694, max 694, total 1286, using 402/402 reads
